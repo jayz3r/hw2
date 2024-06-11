@@ -87,7 +87,7 @@ setInterval(() => {
   position();
 }, 2000);
 
-// Counter
+// Timer
 let watch = document.querySelector("#seconds");
 const startBtn = document.querySelector("#start");
 const stopBtn = document.querySelector("#stop");
